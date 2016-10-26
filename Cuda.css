@@ -1,6 +1,6 @@
 #bg1{
 	background-color: #87509c;
-	height: 300px;
+	height: 600px;
 	padding: 60px;
 	margin: -10px;
 }
@@ -18,8 +18,19 @@ img{
 
 h1{
 	text-align: center;
+	padding-top: 240px;
+	color: #f7f3ea;
+
 
 }
 .clear {
 	clear: both;
+}
+
+.link_work {
+	height: 70px;
+	width: 300px;
+	background: #eb7d4b;
+	
+
 }
