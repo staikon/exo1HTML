@@ -1,0 +1,25 @@
+#bg1{
+	background-color: #87509c;
+	height: 300px;
+	padding: 60px;
+	margin: -10px;
+}
+
+.nav li {
+	display: inline;
+	float: right;
+	padding: 10px;
+	color: white; 
+}
+
+img{
+	float: left;
+}
+
+h1{
+	text-align: center;
+
+}
+.clear {
+	clear: both;
+}
